@@ -1,0 +1,23 @@
+import Link from "next/link"
+
+function Password () {
+    return (
+        <div>
+            <h1><i>This is Password page.</i></h1>
+
+            <ul>
+                <li><Link href = "/">Home Page</Link></li>
+            </ul>
+
+            <ul>
+                <li><Link href = "/dashboard/settings">Back to Settings Page</Link></li>
+            </ul>
+
+
+
+        </div>
+    )
+}
+
+
+export default Password
