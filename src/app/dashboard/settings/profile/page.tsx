@@ -6,7 +6,7 @@ function Profile () {
         <h1><i>This is Profile page.</i></h1>
 
         <ul>
-                <li><Link href = "/">Home Page</Link></li>
+                <li><Link href = "/">Back to Home Page</Link></li>
             </ul>
 
             <ul>

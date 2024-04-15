@@ -6,7 +6,7 @@ function Password () {
             <h1><i>This is Password page.</i></h1>
 
             <ul>
-                <li><Link href = "/">Home Page</Link></li>
+                <li><Link href = "/">Back to Home Page</Link></li>
             </ul>
 
             <ul>

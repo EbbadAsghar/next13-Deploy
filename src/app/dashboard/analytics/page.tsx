@@ -7,11 +7,11 @@ function Analytics () {
             <h1>This is Analytics Page.</h1>
 
             <ul>
-                <li><Link href = "/">Home Page</Link></li>
+                <li><Link href = "/">Back to Home Page</Link></li>
             </ul>
             
             <ul>
-            <li><Link href="/">Back to Dashboard</Link></li>
+            <li><Link href="/dashboard">Back to Dashboard</Link></li>
             </ul>
             
         </div>
